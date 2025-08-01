@@ -9,8 +9,13 @@ This project contains a fully deterministic, symbolic simulation of Wolfram’s 
 - Full automatic FSM validation against simulation
 - Gaussian statistics and Bernoulli analysis of the center column
 
+## License
+
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 ## 🚀 Run the App
 
 ```bash
 pip install -r requirements.txt
 streamlit run rule30_fsm_streamlit_app.py
+
