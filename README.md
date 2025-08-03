@@ -25,7 +25,7 @@ See the accompanying paper:
 by Leonard Ben Aurel Brauer
 
 - [PDF (in repo)](./Rule_30_paper.pdf)
-- [Zenodo archive](https://doi.org/...) *(insert DOI if available)*
+- [Zenodo archive]( https://doi.org/10.5281/zenodo.16730084)
 
 This work addresses all three questions of the Rule 30 Prize:
 
