@@ -24,7 +24,7 @@ See the accompanying paper:
 **"Statistical Randomness in the Central Column of Rule 30"**  
 by Leonard Ben Aurel Brauer
 
-- [PDF (in repo)](./Rule_30_paper.pdf)
+- [PDF (in repo)](./Rule_30.pdf)
 - [Zenodo archive]( https://doi.org/10.5281/zenodo.16730084)
 
 This work addresses all three questions of the Rule 30 Prize:
